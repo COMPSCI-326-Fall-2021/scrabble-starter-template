@@ -1,0 +1,2 @@
+# scrabble-starter-template
+template
